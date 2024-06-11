@@ -7,6 +7,6 @@ To find such cepheids, it was developed a new method making use of Machine Learn
 ## Results Overwiew.
 The results of the new method are showed below. Also makes easier to get a significant loss when compared to the traditional method. There is an improvement of 35.57% in Absolute Loss and 90.4% in Root Squared Mean Loss*. Finally it has the advantage to fit skewsines. *Note: The second metric is a modified version of root mean squared loss. 
 
-YOu can view the full report here: https://github.com/itzecloud/New-Method-for-Cepheid-Search/blob/main/Senoidal%20Regression%20Algorithm.pdf
+You can view the full report here: https://github.com/itzecloud/New-Method-for-Cepheid-Search/blob/main/Senoidal%20Regression%20Algorithm.pdf
 
 ![Sin título](https://github.com/itzecloud/New-Method-for-Cepheid-Search/assets/148586659/069cb712-5425-4d56-b52f-78961cc05052)
