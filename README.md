@@ -5,7 +5,7 @@ How do we measure stars distance? The astronomers have discovered ingenious meth
 To find such cepheids we have to perform a senoidal regression to our data. In general cepheids must look like a sine/cosine curve. To find such stars, a python script was created using the Fast Fourier Transform implementation of Sci-py. Finally I created a Power BI report which utilizes Python Visuals. 
 
 ## Results Overwiew.
-The results of the new method are showed below. Note: You have to install Python, Power BI, Pandas, Numpy, Matplotlib in your computer in order to make the report work out.
+The results of the new method are showed below. Note: You have to install Python, Power BI, Pandas, NUmpy and Matplotlib to make it work. Once installed download paste the appended_fluxes.csv and new_method_sample.csv files to your Documents Folder as well as StarVisualizar.pbix file. Open StarVisualizar.pbix once python is installed.
 
 You can view the full report here: https://github.com/itzecloud/New-Method-for-Cepheid-Search/blob/main/Senoidal%20Regression%20Algorithm.pdf
 
