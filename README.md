@@ -9,4 +9,7 @@ The results of the new method are showed below. Also makes easier to get a signi
 
 You can view the full report here: https://github.com/itzecloud/New-Method-for-Cepheid-Search/blob/main/Senoidal%20Regression%20Algorithm.pdf
 
-![Sin título](https://github.com/itzecloud/New-Method-for-Cepheid-Search/assets/148586659/069cb712-5425-4d56-b52f-78961cc05052)
+![foto1](https://github.com/user-attachments/assets/972a152c-cea9-48dd-98c5-bd2bc0ef53ba)
+![foto2](https://github.com/user-attachments/assets/0ce9787f-fedf-4c8a-8f3f-29e1cf537769)
+![foto4](https://github.com/user-attachments/assets/9219874f-fe9c-4d89-bec9-e7451889c4fb)
+![foto3](https://github.com/user-attachments/assets/9a961495-d4a6-455a-86be-e540fa02230d)
