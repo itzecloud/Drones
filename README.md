@@ -7,7 +7,8 @@ To find such cepheids we have to perform a senoidal regression to our data. In g
 ## Results Overwiew.
 The results of the new method are showed below. Note: You have to install Python, Power BI, Pandas, NUmpy and Matplotlib to make it work. Once installed download paste the appended_fluxes.csv and new_method_sample.csv files to your Documents Folder as well as StarVisualizar.pbix file. Open StarVisualizar.pbix once python is installed.
 
-You can view the full report here: https://github.com/itzecloud/New-Method-for-Cepheid-Search/blob/main/Senoidal%20Regression%20Algorithm.pdf
+You can view the web version report here: https://app.powerbi.com/view?r=eyJrIjoiNzVhZWU4MTgtMDJhNC00NjA2LWI5OGYtNzkwYjJjMWE0M2UwIiwidCI6ImE4MGU0MjRhLTUzYzMtNGJlYS04NzdhLTc1YmZkMDZlZjIwMyJ9
+You can view the report explanation here: https://github.com/itzecloud/New-Method-for-Cepheid-Search/blob/main/Senoidal%20Regression%20Algorithm.pdf
 
 ![foto1](https://github.com/user-attachments/assets/972a152c-cea9-48dd-98c5-bd2bc0ef53ba)
 ![foto2](https://github.com/user-attachments/assets/0ce9787f-fedf-4c8a-8f3f-29e1cf537769)
