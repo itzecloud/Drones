@@ -7,11 +7,9 @@ Para encontrar tales cefeidas tenemos que realizar una regresión senoidal a nue
 ## Results Overwiew.
 Los resultados del nuevo método se muestran a continuación. Nota: Tienes que instalar Python, Power BI, Pandas, NUmpy y Matplotlib para que funcione. Una vez instalado pega los ficheros appended_fluxes.csv y new_method_sample.csv en tu carpeta de documentos así como el fichero StarVisualizar.pbix. Abra StarVisualizar.pbix una vez instalado python. Puede encontrar una explicación más completa de cómo hacerlo aquí: https://monics-hub.blogspot.com/2025/01/como-descargar-starvisualizerpbix.html
 
-Puedes ver la versión web del proyecto aquí: https://app.powerbi.com/view?r=eyJrIjoiNzVhZWU4MTgtMDJhNC00NjA2LWI5OGYtNzkwYjJjMWE0M2UwIiwidCI6ImE4MGU0MjRhLTUzYzMtNGJlYS04NzdhLTc1YmZkMDZlZjIwMyJ9
-
-Puedes desacargar el archivo .pbix original aquí (sólo da lic en los 3 puntos): https://github.com/monics-hub/New-Method-for-Cepheid-Search/blob/main/Star%20Visualizer.pbix
-
 Puedes ver una explicación de cómo se creo el proyecto en inglés aquí: https://github.com/itzecloud/New-Method-for-Cepheid-Search/blob/main/Senoidal%20Regression%20Algorithm.pdf
+
+Puedes ver la versión web del proyecto aquí: https://app.powerbi.com/view?r=eyJrIjoiNzVhZWU4MTgtMDJhNC00NjA2LWI5OGYtNzkwYjJjMWE0M2UwIiwidCI6ImE4MGU0MjRhLTUzYzMtNGJlYS04NzdhLTc1YmZkMDZlZjIwMyJ9
 
 ![foto1](https://github.com/user-attachments/assets/972a152c-cea9-48dd-98c5-bd2bc0ef53ba)
 ![foto2](https://github.com/user-attachments/assets/0ce9787f-fedf-4c8a-8f3f-29e1cf537769)
