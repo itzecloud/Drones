@@ -9,6 +9,8 @@ Los resultados del nuevo método se muestran a continuación. Nota: Tienes que i
 
 Puedes ver la versión web del proyecto aquí: https://app.powerbi.com/view?r=eyJrIjoiNzVhZWU4MTgtMDJhNC00NjA2LWI5OGYtNzkwYjJjMWE0M2UwIiwidCI6ImE4MGU0MjRhLTUzYzMtNGJlYS04NzdhLTc1YmZkMDZlZjIwMyJ9
 
+Puedes desacargar el archivo .pbix original aquí (sólo da lic en los 3 puntos): https://github.com/monics-hub/New-Method-for-Cepheid-Search/blob/main/Star%20Visualizer.pbix
+
 Puedes ver una explicación de cómo se creo el proyecto en inglés aquí: https://github.com/itzecloud/New-Method-for-Cepheid-Search/blob/main/Senoidal%20Regression%20Algorithm.pdf
 
 ![foto1](https://github.com/user-attachments/assets/972a152c-cea9-48dd-98c5-bd2bc0ef53ba)
